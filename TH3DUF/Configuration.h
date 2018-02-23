@@ -113,7 +113,9 @@
 // Probe Mounts
 //#define ENDER2_OEM
 //#define ENDER2_V6
+//#define ENDER2_V6HEAVYDUTY
 //#define CUSTOM_PROBE
+
 
 //===========================================================================
 // TEVO Tornado Options - Select Arduino Mega 2560 from Tools > Board
